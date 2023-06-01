@@ -1,0 +1,2 @@
+,bert-base-multilingual-cased
+0,"{'eval_loss': 0.40210020542144775, 'eval_accuracy': 0.8269410664172123, 'eval_f1': 0.8218139451209556, 'eval_precision': 0.8555497248198103, 'eval_recall': 0.8223413118634566, 'eval_runtime': 3.014, 'eval_samples_per_second': 1064.03, 'eval_steps_per_second': 16.921, 'epoch': 9.0}"
